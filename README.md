@@ -1,5 +1,9 @@
-> Running Commentary: <br>
-> Make pattern rules for dose. 
+#### Patterns of 2,4-DNP Use as Discussed on Social Media
 
-- [Lab Notebook](./lab_notebook.md)
+##### Supporting material for Abdelati et al. (2023)
 
+#### Quickstart
+
+#### Online Demo
+
+#### Background
