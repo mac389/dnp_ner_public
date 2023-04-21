@@ -1,0 +1,22 @@
+training/*
+.DS_Store
+Area 51/*
+data/*
+runs/*
+writing/*
+corpus/*
+cache_dir/*
+outputs/*
+models/*
+!models/ner_validated/
+models/ner_validated/model-last/*
+!models/ner_validated/model-best/*
+*/DS_Store
+*/*bert*
+docs/manuscript*
+docs/*notebook*
+*/*rhetorical*
+code/sandbox.py
+code/__pycache__/*
+code/el_recette.py
+code/create_kb.py
